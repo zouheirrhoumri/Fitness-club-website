@@ -19,7 +19,7 @@ nav{
 }
 
 .BG {
-    background-image: url(../img/training.jpg);
+    background-image: url(img/training.jpg);
     height: 100vh;
     clip-path: polygon(0 0, 100% 0%, 100% 85%, 0 100%);
     background-size: cover;
@@ -98,7 +98,7 @@ span {
 }
 
 .pic {
-    background-image: url(../img/gym-pic.jpg);
+    background-image: url(img/gym-pic.jpg);
     background-size: cover;
     background-position: center;
     height: 80%;
@@ -323,7 +323,7 @@ footer {
 }
 
 .pic1 {
-    background-image: url(../img/weightlifter.webp);
+    background-image: url(img/weightlifter.webp);
     height: auto;
     width: auto;
     display: inline-block;
@@ -618,7 +618,7 @@ article p {
     }
 
     .BG {
-        background-image: url(../img/training.jpg);
+        background-image: url(img/training.jpg);
         height: 250px;
         clip-path: polygon(0 0, 100% 0%, 100% 85%, 0 100%);
         background-size: cover;
@@ -725,7 +725,7 @@ article p {
     }
 
     .pic {
-        background-image: url(../img/gym-pic.jpg);
+        background-image: url(img/gym-pic.jpg);
         background-size: cover;
         background-position: center;
         height: 40vh;
